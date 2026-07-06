@@ -1,7 +1,7 @@
 # SRW-3thAlpha-KPatch
 <img width="608" height="426" alt="image" src="https://github.com/user-attachments/assets/3c12a5af-71fc-46dc-bbb6-8b2c740fcb21" />  
 
-타이틀 이미이 : 실카루님 작품
+타이틀 이미지 : 실카루님 작품
 
 PS2 제3차 슈퍼로봇대전 알파 한국어 패치
 
